@@ -1,3 +1,5 @@
-My first readme
-I have updated this now
-My first readme
+# ALX Pre Course
+## The following topics were covered in ALX Pre-course
+- Shell Basics
+- Shell Permissions
+- Shell Scripting
